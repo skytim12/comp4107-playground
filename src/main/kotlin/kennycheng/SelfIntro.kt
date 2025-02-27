@@ -1,6 +1,6 @@
 package hk.edu.hkbu.comp.comp4107.playground.kennycheng
 
-class SelfIntro {
+class   SelfIntro {
     fun introduce() {
         val name = "Kenny Cheng"
         val age = 20
